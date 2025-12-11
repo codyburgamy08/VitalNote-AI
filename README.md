@@ -4,4 +4,5 @@ index.html
 
 style.css
 
-script.js
+script.js const response = await fetch("https://yourreplitname.username.repl.co/generate", {
+
